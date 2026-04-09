@@ -3,7 +3,7 @@ class Program
 {
    static void Main(string[] args)
 {
-    // VERSION: 2.0.0-MAIN
+    // VERSION: 2.0.0-FINAL
     // Здесь будет логика калькулятора
     
     Console.Write("Введите первое число: ");
